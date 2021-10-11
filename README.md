@@ -14,4 +14,5 @@ Using it to enter a given K8s node.
 ## Used by 
 
 [Lens App](https://github.com/lensapp/lens)
- 
+
+https://github.com/lensapp/lens/blob/master/src/main/shell-session/node-shell-session.ts
